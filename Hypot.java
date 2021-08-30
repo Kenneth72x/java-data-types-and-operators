@@ -12,8 +12,11 @@ class Hypot {
         x = 3;
         y = 4;
 
-        z =Math.sqrt(x*x + y*y);
+        z = Math.sqrt(x*x + y*y);
 
         System.out.println("Hypotenuse is " +z);
     }
 }
+
+
+//sqrt() is a member of the standard Math class. sqrt() is called by the preceeding Math.sqrt(). 
