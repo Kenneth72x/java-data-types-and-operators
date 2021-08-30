@@ -13,3 +13,7 @@ class Inches {
         System.out.println("There are " + ci + " cubic inches in cubic mile.");
     }
 }
+
+/* 
+Using the long type to decalre a variable instead of int allows Java to hold a larger variable. 
+*/
