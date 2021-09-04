@@ -1,0 +1,18 @@
+//Arithmetic Operators
+Operator    Meaning
++           Addition(also unary plus)
+-           Subtraction(also unary minus)
+*           Multiplication
+/           Division
+%           Modulus
+++          Increment
+--          Decrement
+
+//Relational Operators: relational refers to the relationshiops that values can have with one another. 
+Operator    Meaning
+==          Equal to
+!=          Not equal to
+
+
+//Logical operators: logical refers to the ways in which true and false values can be connected together. 
+
