@@ -16,4 +16,4 @@ class ModDemo {
         System.out.println("Result and remainder of 10.0 / 3.0: " + dresult + " " + drem);
     }
 }
-//As you can see, the % operator yields a remainder of 1 for both integer and floating-point operations. 
+//As you can see, the % operator yields a remainder of 1 for both integer and floating-point operations. \
