@@ -12,7 +12,18 @@ Operator    Meaning
 Operator    Meaning
 ==          Equal to
 !=          Not equal to
-
+>           Greater than
+<           Less than
+>=          Greater than or equal to
+<=          Less than or equal to
 
 //Logical operators: logical refers to the ways in which true and false values can be connected together. 
+Operator    Meaning
+&           AND 
+|           OR
+^           XOR (exclusive OR)
+||          Short-circuit OR
+&&          Short-circuit AND
+!           NOT
 
+//The outcome of the relational and logical operators is a boolean value. 
