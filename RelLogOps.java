@@ -13,5 +13,12 @@ class RelLogOps {
         if(i == j) System.out.println("this won't execute!");
         if(i >= j) System.out.println("this won't execute!");
         if(i > j) System.out.println("this won't execute!");
+
+        b1 = true;
+        b2 = false;
+        if(b1 & b2) System.out.println("this won't execute!");
+        if(!(b1 & b2)) System.out.println("!(b1 & b2) is true!");
+        if(b1 | b2) System.out.println("b1 | b2 is true!");
+        if(b1 ^ b2) System.out.println("b1 ^ b2 is true!");
     }
 }
