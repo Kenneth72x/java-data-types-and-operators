@@ -9,6 +9,9 @@ class RelLogOps {
         j = 11;
         if(i < j) System.out.println("i < j");
         if(i <= j) System.out.println("i <= j");
-        
+        if(i != j) System.out.println("i != j");
+        if(i == j) System.out.println("this won't execute!");
+        if(i >= j) System.out.println("this won't execute!");
+        if(i > j) System.out.println("this won't execute!");
     }
 }
